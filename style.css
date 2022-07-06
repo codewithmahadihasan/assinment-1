@@ -9,7 +9,6 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     padding: 200px;
-    bagr
 }
 
 .head {
@@ -151,6 +150,10 @@ body {
     font-size: 40px;
 }
 
+.update {
+    margin-top: 10%;
+}
+
 .div12 {
     text-align: center;
 }
@@ -177,7 +180,7 @@ body {
     font-size: 20px;
     border-top-right-radius: 7px;
     border-bottom-right-radius: 7px;
-    left: -5px;
+    margin-left: -10px
 }
 
 #email {
@@ -187,7 +190,6 @@ body {
     background-color: rgb(185, 181, 181);
     border-top-left-radius: 7px;
     border-bottom-left-radius: 7px;
-    right: 5px;
 }
 
 footer {
