@@ -2,6 +2,7 @@ body {
     font-family: 'Poppins',
         sans-serif;
     margin: 0;
+    background-color: rgb(183, 233, 233);
 }
 
 .sec1 {
@@ -73,9 +74,10 @@ body {
 #blood-names {
     height: 100%;
     width: 100%;
+    font-size: 20px;
     text-align: center;
-    background-color: rgb(240, 252, 221);
     border: none;
+    background-color: rgb(183, 233, 233);
     border-bottom: 2px solid rgb(141, 140, 140);
 }
 
@@ -167,7 +169,6 @@ body {
     margin-left: 20%;
     margin-right: 20%;
     padding: 50px;
-    background-color: rgba(205, 249, 158, 0.386);
     border-radius: 10px;
 }
 
