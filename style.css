@@ -71,7 +71,7 @@ body {
     height: 100%;
     width: 100%;
     text-align: center;
-    background-color: none;
+    background-color: rgb(240, 252, 221);
     border: none;
     border-bottom: 2px solid rgb(141, 140, 140);
 }
@@ -172,13 +172,22 @@ body {
     background-color: orange;
     width: 120px;
     border: none;
+    padding: 10px;
     color: white;
     font-size: 20px;
-    border-radius: 5px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    left: -5px;
 }
 
-.email {
-    size: 30px;
+#email {
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+    background-color: rgb(185, 181, 181);
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    right: 5px;
 }
 
 footer {
