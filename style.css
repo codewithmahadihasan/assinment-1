@@ -1,0 +1,120 @@
+body {
+    font-family: 'Poppins',
+        sans-serif;
+}
+
+.sec1 {
+    background-image: url(image/header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+    margin: 0;
+
+}
+
+.head {
+    font-size: 100px;
+}
+
+
+
+.div1 {
+    text-align: center;
+    color: white;
+}
+
+
+.donate {
+    text-decoration: none;
+    color: white;
+    background-color: #ff8800;
+    padding: 10px 40px;
+    border-radius: 7px;
+    font-weight: 300;
+    margin-top: 50px;
+}
+
+.blood-group {
+    font-size: 50px;
+    text-align: center;
+}
+
+.div2 {
+    text-align: center;
+}
+
+.div3 {
+    display: flex;
+    margin-left: 300px;
+}
+
+.div3 h1 {
+    display: flex;
+    margin-left: 20px;
+    padding: 30px;
+}
+
+#o-p {
+    color: rgb(0, 0, 0);
+    background-color: rgb(185, 230, 236);
+    border-color: rgb(45, 226, 246);
+    border-style: solid;
+
+
+}
+
+.input {
+    margin: 50px;
+}
+
+#blood-name {}
+
+.div4 {
+    text-align: center;
+}
+
+.div5 {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.head-plan {
+    font-size: 40px;
+}
+
+
+.div6 {
+    width: 100vw;
+    display: flex;
+    text-align: left;
+
+}
+
+.div7 {
+    width: 80%;
+    margin: 10px;
+    padding: 40px;
+    background-color: aquamarine;
+    border-radius: 10px;
+
+}
+
+.div8 {
+    width: 80%;
+    margin: 10px;
+    padding: 40px;
+    background-color: rgb(180, 255, 127);
+    border-radius: 10px;
+}
+
+.div9 {
+    width: 80%;
+    margin: 10px;
+    padding: 40px;
+    background-color: rgb(210, 170, 253);
+    border-radius: 10px;
+}
+
+#doner {
+    width: 100px;
+}
