@@ -20,6 +20,11 @@ body {
 .div1 {
     text-align: center;
     color: white;
+
+}
+
+.paragraph {
+    margin-bottom: 70px;
 }
 
 
@@ -30,7 +35,7 @@ body {
     padding: 10px 40px;
     border-radius: 7px;
     font-weight: 300;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 .blood-group {
